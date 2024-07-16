@@ -27,11 +27,11 @@ module.exports = () => {
       }),
       new WorkboxPlugin.GenerateSW(),
       new WebpackPwaManifest({
-        name: 'jate',
-        short_name: 'jate',
-        description: 'text editor!',
-        background_color: '#7eb4e2',
-        theme_color: '#7eb4e2',
+        name: 'Just Another Text Editor',
+        short_name: 'J.A.T.E',
+        description: 'takes notes with JavaScript',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         start_url: './',
         publicPath: './',
         icons: [
