@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "jate",
-  "short_name": "jate",
+  "name": "Just Another Text Editor",
+  "short_name": "J.A.T.E",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
-  "description": "text editor!",
-  "background_color": "#7eb4e2",
-  "theme_color": "#7eb4e2"
+  "description": "takes notes with JavaScript",
+  "background_color": "#225ca3",
+  "theme_color": "#225ca3"
 }
